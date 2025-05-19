@@ -65,7 +65,7 @@ When you bring an AI “co-worker” into your project, you’re collaborating w
 ### Sample Repository Structure
 
 
-GitHub Copilot
+```
 Root/  
   functional_code/  
   prepared_data/  
@@ -79,7 +79,7 @@ Root/
   results/  
   supplementary_code/  
     raw_data_processing/
-
+```
 
 ### Submission
 
