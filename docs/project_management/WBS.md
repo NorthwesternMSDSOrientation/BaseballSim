@@ -1,5 +1,3 @@
-**Author:** Andrew D'Amico
-**Email:** Andrew.Damico@u.northwestern.edu
 # Work Breakdown Structure (WBS) - Example
 
 This is a sample WBS for a Baseball Simulator project.  
@@ -20,4 +18,7 @@ Adapt or simplify as needed for your team.
 └─ 3 Testing & Reporting  
     ├─ 3.1 Unit Tests  
     └─ 3.2 Results & Metrics
+
+**Author:** Andrew D'Amico
+**Email:** Andrew.Damico@u.northwestern.edu
 

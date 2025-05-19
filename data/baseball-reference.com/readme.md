@@ -1,5 +1,3 @@
-**Author:** Andrew D'Amico
-**Email:** Andrew.Damico@u.northwestern.edu
 # Baseball-Reference Raw Data
 
 This folder contains raw CSV exports from [Baseball-Reference.com](https://www.baseball-reference.com/) for the 2025 Chicago Cubs and Chicago White Sox.
@@ -20,3 +18,7 @@ These files are used as input for the data cleaning and normalization pipeline (
 Do not edit these files directly; always re-export from Baseball-Reference if updates are needed.
 
 ---
+
+**Author:** Andrew D'Amico
+**Email:** Andrew.Damico@u.northwestern.edu
+

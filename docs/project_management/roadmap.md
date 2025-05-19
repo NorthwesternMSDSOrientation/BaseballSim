@@ -1,5 +1,3 @@
-**Author:** Andrew D'Amico
-**Email:** Andrew.Damico@u.northwestern.edu
 # Roadmap - Example
 
 This is a sample roadmap for a Baseball Simulator project.
@@ -46,4 +44,7 @@ This is a sample roadmap for a Baseball Simulator project.
 - Scenario comparison and multi-series simulations
 - Performance optimizations
 - User feedback and multi-language support
+
+**Author:** Andrew D'Amico
+**Email:** Andrew.Damico@u.northwestern.edu
 

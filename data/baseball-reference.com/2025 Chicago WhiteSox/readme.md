@@ -1,5 +1,3 @@
-**Author:** Andrew D'Amico
-**Email:** Andrew.Damico@u.northwestern.edu
 # 2025 Chicago White Sox Raw Data
 
 This folder contains all raw CSV tables for the 2025 Chicago White Sox, exported from [Baseball-Reference.com](https://www.baseball-reference.com/teams/CHW/2025.shtml).
@@ -16,3 +14,7 @@ This folder contains all raw CSV tables for the 2025 Chicago White Sox, exported
 - For data dictionary and table explanations, see the parent folder's `encyclopedia.md`.
 
 ---
+
+**Author:** Andrew D'Amico
+**Email:** Andrew.Damico@u.northwestern.edu
+

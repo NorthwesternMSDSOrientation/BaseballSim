@@ -1,5 +1,3 @@
-**Author:** Andrew D'Amico
-**Email:** Andrew.Damico@u.northwestern.edu
 # Backlog Management Process
 
 When adding items to the backlog, follow this process:
@@ -83,3 +81,7 @@ Replace these with your own user stories and priorities.
 | BL-001  | User         | As a user, I want to upload a CSV so that the system can predict sales.    | High     | Open   |
 | BL-002  | Developer    | As a developer, I want to validate input data so that errors are prevented.| Medium   | Open   |
 | BL-003  | Product Owner| As a product owner, I want a dashboard so that I can view results easily.  | Low      | Open   |
+
+**Author:** Andrew D'Amico
+**Email:** Andrew.Damico@u.northwestern.edu
+

@@ -1,5 +1,3 @@
-**Author:** Andrew D'Amico
-**Email:** Andrew.Damico@u.northwestern.edu
 # Activity List - Example
 
 This is a sample activity list for a Baseball Simulator project.
@@ -72,3 +70,7 @@ This is a sample activity list for a Baseball Simulator project.
 - [x] **BL-038**: Remove stat family/sub-header rows from all cleaned and team totals CSVs
 
 ---
+
+**Author:** Andrew D'Amico
+**Email:** Andrew.Damico@u.northwestern.edu
+

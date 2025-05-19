@@ -1,6 +1,3 @@
-**Author:** Andrew D'Amico
-**Email:** Andrew.Damico@u.northwestern.edu
-
 # Documentation Home
 
 Welcome! This folder contains **example project management and documentation artifacts** for the Baseball Simulator assignment.  
@@ -33,3 +30,7 @@ Feel free to simplify, adapt, or reorganize as needed for your team.
 All baseball statistics and schedule/roster data referenced in this project are from [Baseball-Reference.com](https://www.baseball-reference.com/).
 
 ---
+
+**Author:** Andrew D'Amico
+**Email:** Andrew.Damico@u.northwestern.edu
+

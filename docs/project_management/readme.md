@@ -1,5 +1,3 @@
-**Author:** Andrew D'Amico
-**Email:** Andrew.Damico@u.northwestern.edu
 ---
 title: "Project Management Overview"
 draft: false
@@ -35,4 +33,7 @@ All baseball statistics and schedule/roster data used in this project were sourc
 For any questions, please contact the project lead or refer to the documentation above.
 
 ---
+
+**Author:** Andrew D'Amico
+**Email:** Andrew.Damico@u.northwestern.edu
 

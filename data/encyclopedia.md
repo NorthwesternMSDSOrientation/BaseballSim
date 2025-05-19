@@ -1,5 +1,3 @@
-**Author:** Andrew D'Amico
-**Email:** Andrew.Damico@u.northwestern.edu
 # 2025 Cubs & White Sox Data Tables Reference
 
 This document describes each CSV data table available for the 2025 Chicago Cubs and Chicago White Sox, explains every variable/column, and summarizes the importance of each table for game day simulation.  
@@ -382,3 +380,7 @@ In the raw CSVs, a stat family/sub-header row (e.g., `,,,Standard,Standard,...`)
 - Implement a data preparation module to parse, clean, and normalize all variables as described above before using them in the simulation engine.
 
 ---
+
+**Author:** Andrew D'Amico
+**Email:** Andrew.Damico@u.northwestern.edu
+

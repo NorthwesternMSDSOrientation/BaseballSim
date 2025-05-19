@@ -1,5 +1,3 @@
-**Author:** Andrew D'Amico
-**Email:** Andrew.Damico@u.northwestern.edu
 # Data Directory
 
 This folder contains all raw and processed data files used by the Pitch-by-Pitch Pro simulation project.
@@ -32,3 +30,7 @@ All baseball statistics and roster/schedule data were sourced from [Baseball-Ref
 - For a full data dictionary and table explanations, see [`data/encyclopedia.md`](encyclopedia.md).
 
 ---
+
+**Author:** Andrew D'Amico
+**Email:** Andrew.Damico@u.northwestern.edu
+
