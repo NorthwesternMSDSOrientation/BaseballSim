@@ -114,11 +114,17 @@ All baseball statistics and schedules are sourced from [Baseball-Reference.com](
 1. Install Go 1.18+.
 2. Run the data prepper:
    ```sh
-   go run ./internal/data_prepper/data_prepper.go
+   go run ./internal_modules/data_prepper/data_prepper.go
    ```
 3. See /docs for project management and /data/prepared_data for cleaned CSVs.
 
-##License
+## Additional Resources
+
+- [Contributing Guidelines](contributing.md)
+- [Requirements & Setup](docs/requirements.md)
+- [FAQ](docs/FAQ.md)
+
+## License
 For academic and educational use only.
 See /docs for attribution and licensing details.
 

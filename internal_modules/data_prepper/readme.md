@@ -28,8 +28,8 @@ go run ./internal_modules/data_prepper/data_prepper.go
   - Normalizes position columns and validates numeric columns.
   - Adds position flexibility and boolean columns where applicable.
   - **Drops any stat family/sub-header rows (e.g., `,,,Standard,Standard,...`). Only the real column header and data rows are retained in all outputs.**
-- Writes a cleaned CSV to `data/clean/`, named like `cubs_standard_batting_clean.csv`.
-- Writes a team totals CSV (if present) to `data/clean/`, named like `cubs_standard_batting_team_totals_clean.csv`, with only the real header and the team totals row.
+- Writes a cleaned CSV to `data/prepared_data/`, named like `cubs_standard_batting_clean.csv`.
+- Writes a team totals CSV (if present) to `data/prepared_data/`, named like `cubs_standard_batting_team_totals_clean.csv`, with only the real header and the team totals row.
 
 ## Output Example
 
