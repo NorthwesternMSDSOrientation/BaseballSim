@@ -108,8 +108,8 @@ Root/
 
 - `/data` — Raw and cleaned data files for both teams.
 - `/docs` — Project management, specs, and presentations.
-- `/internal/data_prepper` — Go module for data cleaning and normalization.
-- `/internal/simulation` — (Planned) Simulation engine code.
+- `/internal_modules/data_prepper` — Go module for data cleaning and normalization.
+- `/code/simulation` — (Planned) Simulation engine code.
 
 ## Data Source
 
@@ -122,7 +122,7 @@ All baseball statistics and schedules are sourced from [Baseball-Reference.com](
    ```sh
    go run ./internal/data_prepper/data_prepper.go
    ```
-3. See /docs for project management and /data/clean for cleaned CSVs.
+3. See /docs for project management and /data/prepared_data for cleaned CSVs.
 
 ##License
 For academic and educational use only.

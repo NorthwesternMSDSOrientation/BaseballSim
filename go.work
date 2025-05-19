@@ -4,6 +4,5 @@ toolchain go1.24.3
 
 
 use (
-    ./internal/scraper
-    ./internal/data_prepper
+    ./internal_modules/data_prepper
 )

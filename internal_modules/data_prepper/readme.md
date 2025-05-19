@@ -9,14 +9,14 @@ This tool processes raw Baseball-Reference CSV files for the Cubs and White Sox,
 - Normalizes position columns, adds position flexibility and boolean columns for each position.
 - Handles roster and schedule files.
 - Drops stat family/sub-header rows from all outputs.
-- Outputs cleaned CSVs to the `data/clean/` directory, using a consistent naming convention.
+- Outputs cleaned CSVs to the `data/prepared_data/` directory, using a consistent naming convention.
 
 ## Usage
 
 From the project root, run:
 
 ```sh
-go run ./internal/data_prepper/data_prepper.go
+go run ./internal_modules/data_prepper/data_prepper.go
 ```
 
 ## How It Works
