@@ -1,3 +1,5 @@
+**Author:** Andrew D'Amico
+**Email:** Andrew.Damico@u.northwestern.edu
 # Cleaned Data
 
 This folder contains cleaned and normalized CSV files, ready for use by the Pitch-by-Pitch Pro simulation engine.

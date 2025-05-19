@@ -1,3 +1,5 @@
+**Author:** Andrew D'Amico
+**Email:** Andrew.Damico@u.northwestern.edu
 
 # Documentation Home
 

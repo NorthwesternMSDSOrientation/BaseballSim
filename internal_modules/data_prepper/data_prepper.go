@@ -1,3 +1,5 @@
+// Author: Andrew D'Amico
+// Email: Andrew.Damico@u.northwestern.edu
 package main
 
 import (
@@ -359,3 +361,4 @@ func isLikelyPlayerName(s string) bool {
 	}
 	return true
 }
+

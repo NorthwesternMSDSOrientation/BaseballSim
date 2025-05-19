@@ -1,3 +1,5 @@
+**Author:** Andrew D'Amico
+**Email:** Andrew.Damico@u.northwestern.edu
 # Backlog Management Process
 
 When adding items to the backlog, follow this process:

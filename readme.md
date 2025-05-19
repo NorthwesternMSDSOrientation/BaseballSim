@@ -1,3 +1,5 @@
+**Author:** Andrew D'Amico
+**Email:** Andrew.Damico@u.northwestern.edu
 # Baseball Simulation
 
 This repository is a template and example for a baseball simulation project using real player, roster, and schedule data from [Baseball-Reference.com](https://www.baseball-reference.com/).  
@@ -127,4 +129,5 @@ All baseball statistics and schedules are sourced from [Baseball-Reference.com](
 ##License
 For academic and educational use only.
 See /docs for attribution and licensing details.
+
 

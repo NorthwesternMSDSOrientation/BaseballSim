@@ -1,0 +1,45 @@
+# Author: Andrew D'Amico
+# Email: Andrew.Damico@u.northwestern.edu
+# VS Code settings
+.vscode/
+
+# Go build artifacts
+bin/
+*.exe
+*.test
+*.out
+*.log
+
+# Dependency directories (if using Go modules, this is usually not needed)
+vendor/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Data outputs and temporary files
+data/prepared_data/
+data/*_clean.csv
+data/*_totals.csv
+
+# Raw data should NOT be ignored if you want to version it, but you can ignore temp exports:
+data/baseball-reference.com/*~
+data/baseball-reference.com/*.tmp
+
+# Jupyter and notebook checkpoints
+*.ipynb_checkpoints
+
+# Python cache (if any scripts)
+__pycache__/
+*.pyc
+
+# Miscellaneous
+*.swp
+*.swo
+
+# Ignore secrets or config (if any)
+.env
+secrets.json
+
+.vscode
+add-author.ps1

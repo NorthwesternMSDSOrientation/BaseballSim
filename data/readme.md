@@ -1,3 +1,5 @@
+**Author:** Andrew D'Amico
+**Email:** Andrew.Damico@u.northwestern.edu
 # Data Directory
 
 This folder contains all raw and processed data files used by the Pitch-by-Pitch Pro simulation project.

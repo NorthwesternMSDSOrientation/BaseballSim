@@ -1,3 +1,5 @@
+**Author:** Andrew D'Amico
+**Email:** Andrew.Damico@u.northwestern.edu
 # Status Log - Example
 
 This is a sample status log for a Baseball Simulator project.
@@ -96,3 +98,4 @@ Status should be in the form of a list of notes or summaries that the agent perf
   - Ensure the cleaned schedule files are output to `data/clean` and are ready for use by the simulation engine.
   - Update project management docs and `readme.md` as needed after schedule processing.
 - See the updated backlog and status for more details on what’s done and what’s next.
+

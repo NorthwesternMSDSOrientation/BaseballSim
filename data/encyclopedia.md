@@ -1,3 +1,5 @@
+**Author:** Andrew D'Amico
+**Email:** Andrew.Damico@u.northwestern.edu
 # 2025 Cubs & White Sox Data Tables Reference
 
 This document describes each CSV data table available for the 2025 Chicago Cubs and Chicago White Sox, explains every variable/column, and summarizes the importance of each table for game day simulation.  

@@ -1,3 +1,5 @@
+**Author:** Andrew D'Amico
+**Email:** Andrew.Damico@u.northwestern.edu
 # Results Directory
 
 This folder is for storing the outputs of your baseball simulation runs.

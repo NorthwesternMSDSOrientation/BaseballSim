@@ -1,3 +1,5 @@
+**Author:** Andrew D'Amico
+**Email:** Andrew.Damico@u.northwestern.edu
 # Baseball Simulator - Example Functional Specifications
 
 This is a template for functional specs.  
@@ -228,3 +230,4 @@ This document details the core functions for the baseball simulator project, div
 ---
 
 # End of Functional Specifications
+

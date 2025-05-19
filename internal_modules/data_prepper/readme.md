@@ -1,3 +1,5 @@
+**Author:** Andrew D'Amico
+**Email:** Andrew.Damico@u.northwestern.edu
 # Data Prepper Module
 
 This tool processes raw Baseball-Reference CSV files for the Cubs and White Sox, cleaning and normalizing the data for use in the simulation engine.

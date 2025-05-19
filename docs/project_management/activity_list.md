@@ -1,3 +1,5 @@
+**Author:** Andrew D'Amico
+**Email:** Andrew.Damico@u.northwestern.edu
 # Activity List - Example
 
 This is a sample activity list for a Baseball Simulator project.

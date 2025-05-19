@@ -1,3 +1,5 @@
+**Author:** Andrew D'Amico
+**Email:** Andrew.Damico@u.northwestern.edu
 # Functional Code Directory
 
 This folder is for all code related to your baseball simulation project.
