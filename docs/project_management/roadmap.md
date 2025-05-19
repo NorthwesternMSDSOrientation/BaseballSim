@@ -1,3 +1,12 @@
+# Roadmap - Example
+
+This is a sample roadmap for a Baseball Simulator project.
+
+- Day 1: Data pipeline complete
+- Day 2: Model MVP
+- Day 3: UI integration
+- Day 4: Final testing and presentation
+
 # Product Roadmap & Iteration Plan
 
 ## MVP 1 - Core Simulation Engine

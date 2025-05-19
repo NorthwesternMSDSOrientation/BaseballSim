@@ -70,3 +70,14 @@ When adding items to the backlog, follow this process:
 > - IDs (e.g., BL-001) are used for cross-referencing between the checklist and the table.
 > - Links to artifacts reference the relevant files for traceability.
 > - Additional infrastructure and process items (BL-027 to BL-031) are included for project completeness.
+
+# Product Backlog - Example
+
+This is a sample backlog for a Baseball Simulator project.  
+Replace these with your own user stories and priorities.
+
+| ID      | Persona      | User Story                                                                 | Priority | Status |
+|---------|--------------|----------------------------------------------------------------------------|----------|--------|
+| BL-001  | User         | As a user, I want to upload a CSV so that the system can predict sales.    | High     | Open   |
+| BL-002  | Developer    | As a developer, I want to validate input data so that errors are prevented.| Medium   | Open   |
+| BL-003  | Product Owner| As a product owner, I want a dashboard so that I can view results easily.  | Low      | Open   |

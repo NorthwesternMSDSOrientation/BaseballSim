@@ -1,6 +1,6 @@
 # 2025 Chicago White Sox Raw Data
 
-This folder contains all raw CSV tables for the 2025 Chicago White Sox, exported from [Baseball-Reference.com](https://www.baseball-reference.com/).
+This folder contains all raw CSV tables for the 2025 Chicago White Sox, exported from [Baseball-Reference.com](https://www.baseball-reference.com/teams/CHW/2025.shtml).
 
 ## Tables Included
 

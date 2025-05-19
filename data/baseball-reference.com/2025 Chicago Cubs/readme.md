@@ -1,6 +1,6 @@
 # 2025 Chicago Cubs Raw Data
 
-This folder contains all raw CSV tables for the 2025 Chicago Cubs, exported from [Baseball-Reference.com](https://www.baseball-reference.com/).
+This folder contains all raw CSV tables for the 2025 Chicago Cubs, exported from [Baseball-Reference.com](https://www.baseball-reference.com/teams/CHC/2025.shtml).
 
 ## Tables Included
 

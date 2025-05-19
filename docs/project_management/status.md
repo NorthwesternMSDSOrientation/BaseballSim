@@ -1,3 +1,13 @@
+# Status Log - Example
+
+This is a sample status log for a Baseball Simulator project.
+
+## Status Report
+
+- May 18: Prompted AI to write data-cleaning function; fixed edge-case in row filtering.
+- May 19: Reviewed and merged pull request for simulation engine.
+- May 20: Updated backlog and WBS after team meeting.
+
 # Status
 
 ## Format

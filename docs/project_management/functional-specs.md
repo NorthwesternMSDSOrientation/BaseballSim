@@ -1,3 +1,15 @@
+# Baseball Simulator - Example Functional Specifications
+
+This is a template for functional specs.  
+Replace the example user stories and acceptance criteria with your own.
+
+## Example User Story
+
+As a user, I want to upload a CSV so that the system can predict sales.  
+**Acceptance:** The model returns a JSON with predictions and confidence intervals.
+
+(Add your own user stories and acceptance criteria below.)
+
 # Baseball Simulator - Functional Specifications
 
 ## Overview

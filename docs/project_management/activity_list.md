@@ -1,3 +1,11 @@
+# Activity List - Example
+
+This is a sample activity list for a Baseball Simulator project.
+
+- May 19 09:00–10:00: Reviewed AI-generated EDA code (Andrew).
+- May 19 10:00–11:00: Wrote missing test cases (Sam).
+- May 20 13:00–14:00: Updated documentation (Priya).
+
 ## Backlog Checklist
 
 ### Open Items
