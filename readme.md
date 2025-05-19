@@ -12,18 +12,11 @@ Post the link to your group’s GitHub repo. Your repo should be organized as fo
 
 ```
 Root/  
-  functional_code/  
-  prepared_data/  
-  documentation_and_project_management_artifacts/  
-    Functional_Specs  
-    Work_Breakdown_Structure  
-    Product_Backlog  
-    Status_Log  
-    Activity_List  
-    Roadmap  
-  results/  
-  supplementary_code/  
-    raw_data_processing/  
+  functional_code (Your working code/model)
+  prepared_data (Data for your model)
+  documentation_and_project_management_artifacts (Your planning work)
+  results (The outcome of your experiment)
+  supplementary_code (any other code your needed)
 ```
 
 
@@ -64,15 +57,23 @@ When you bring an AI “co-worker” into your project, you’re collaborating w
 
 ### Sample Repository Structure
 
-
 ```
 Root/  
-  functional_code (Your working code/model)
-  prepared_data (Data for your model)
-  documentation_and_project_management_artifacts (Your planning work)
-  results (The outcome of your experiment)
-  supplementary_code (any other code your needed)
+  functional_code/  
+  prepared_data/  
+  documentation_and_project_management_artifacts/  
+    Functional_Specs  
+    Work_Breakdown_Structure  
+    Product_Backlog  
+    Status_Log  
+    Activity_List  
+    Roadmap  
+  results/  
+  supplementary_code/  
+    raw_data_processing/  
 ```
+
+
 
 ### Submission
 
