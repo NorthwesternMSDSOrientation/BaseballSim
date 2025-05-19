@@ -19,7 +19,7 @@ var positionMap = map[string]string{
 
 func main() {
 	inputRoot := "data/baseball-reference.com"
-	outputDir := "data/clean/"
+	outputDir := "data/prepared_data/"
 	os.MkdirAll(outputDir, 0755)
 
 	// List all team folders
