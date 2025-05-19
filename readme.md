@@ -10,6 +10,7 @@ It demonstrates how to organize your code, data, and project management artifact
 **Instructions:**  
 Post the link to your group’s GitHub repo. Your repo should be organized as follows:
 
+```
 Root/  
   functional_code/  
   prepared_data/  
@@ -23,6 +24,7 @@ Root/
   results/  
   supplementary_code/  
     raw_data_processing/  
+```
 
 
 ### Why We Require AI Project-Management Artifacts
